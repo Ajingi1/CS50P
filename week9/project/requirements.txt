@@ -1,2 +1,0 @@
-pip install -r
-There is no installation requirements
